@@ -32,6 +32,8 @@ The database is designed with a one-to-many relationship structure for streamlin
 
 - Products Table ↔ Suppliers Table: Associated through the SupplierID column to identify the supplier of each product.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ⚡ Highlights
 - Optimized Performance: Reduces data processing per record for faster analysis and efficient resource use.
 

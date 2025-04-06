@@ -11,7 +11,7 @@ WHERE c.Country = 'Mexico'
 -- 3- For products with price over 50$, display the product name, package and price after Taxes.
 -- Note: taxes = 15%
 
-SELECT p.ProductName, p.Package, (p.UnitPrice + (p.UnitPrice * 0.15)) AS PriceAfterTax
+SELECT p.ProductName, p.Package, (p.UnitPrice + (p.UnitPrice * 0.15)) AS 'Price After Tax'
 FROM Product p
 
 -- 4- For Suppliers, outside USA and UK, display a list of company name, city and phone

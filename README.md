@@ -1,4 +1,5 @@
-Northwind 2021: SQL Project in Microsoft SQL Server Management Studio
+**Northwind 2021: SQL Project in Microsoft SQL Server Management Studio**
+
 Welcome to the Northwind 2021 project! This repository contains the implementation of a comprehensive database system using SQL in Microsoft SQL Server Management Studio. 
 The goal of this project is to create an efficient Customer Relationship Management (CRM) and order-tracking database with five interconnected tables, optimizing data processing and 
 analysis performance.

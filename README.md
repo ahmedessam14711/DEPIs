@@ -21,7 +21,7 @@ This project involves designing and creating a relational database for a store�
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-📊 Database Relationships
+## **📊 Database Relationships**
 The database is designed with a one-to-many relationship structure for streamlined data management:
 
 - Orders Table ↔ Customers Table: Connected via the CustomerID column to identify who placed each order.
@@ -41,7 +41,7 @@ The database is designed with a one-to-many relationship structure for streamlin
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🎯 Training Focus
+## **🎯 Training Focus**
 As part of this project, we have tasked ourselves with learning and mastering SQL Queries. This includes developing skills to:
 
 - Create, modify, and manage tables.
@@ -54,7 +54,7 @@ As part of this project, we have tasked ourselves with learning and mastering SQ
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-💡 Applications
+## **💡 Applications**
 This database system is ideal for:
 
 - Customer order tracking

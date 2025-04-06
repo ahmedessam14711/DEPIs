@@ -34,7 +34,7 @@ The database is designed with a one-to-many relationship structure for streamlin
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-⚡ Highlights
+## **⚡ Highlights**
 - Optimized Performance: Reduces data processing per record for faster analysis and efficient resource use.
 
 - Enhanced Scalability: Designed for scalability, supporting complex queries and analytics.
